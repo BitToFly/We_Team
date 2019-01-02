@@ -143,28 +143,28 @@ li{
     box-sizing: content-box;
 }
 .sidebar .item .icon{
-	background-image: url(https://img.alicdn.com/tfs/TB1u1U9xmzqK1RjSZFHXXb3CpXa-64-180.png);
+	background-image: url(img/10.png);
 }
 .sidebar .item .service{
 	background-position: 3px -30px;
 }
 .sidebar .item .icon{
-	background:url(//img.alicdn.com/tfs/TB1.FXkxTtYBeNjy1XdXXXXyVXa-64-180.png) no-repeat;
+	background:url(img/10.png)) no-repeat;
 	margin:0 auto;
 	width:32px;
 	height:29px;
 	background-size:100%;
 }
 .sidebar .item .icon{
-	background-image:url(https://img.alicdn.com/tfs/TB1u1U9xmzqK1RjSZFHXXb3CpXa-64-180.png);
+	background-image:url(img/10.png));
 }
 .sidebar .item .damai{
-	background-position:0 4px;
+	background-position:0 -1px;
 }
 .sidebar .item .icon{
-	background:url(//img.alicdn.com/tfs/TB1.FXkxTtYBeNjy1XdXXXXyVXa-64-180.png) no-repeat;
+	background:url(img/10.png)) no-repeat;
 	margin:0 auto;
-	width:32px;
+	width:33px;
 	height:29px;
 	background-size:100%;
 }
@@ -199,8 +199,11 @@ li{
 	width:72px;
 	height: 72px;
 }
-.sidebar .item:last-child{
+.sidebar .item .J_GoTop{
 	border-bottom-width:0;
+}
+.sidebar .item .gotop{
+	background-position:4px -65px;
 }
 .sidebar .item p{
 	margin:5px 0 0;
