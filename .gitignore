@@ -1,0 +1,20 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+target/
+log/
+logs/
+temp_attach/
+FBM.log
+FBM.log.**
+
+# Eclipse
+**/*.project
+**/*.classpath
+**/*.settings
